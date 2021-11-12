@@ -1,4 +1,4 @@
-package facades;
+/*package facades;
 
 import entities.Role;
 import entities.User;
@@ -50,7 +50,6 @@ class UserFacadeTest {
     void getUserFacade() {
     }
 
-/*
     @Test
     void getVeryfiedUser() throws AuthenticationException {
         String username = user.getUserName();
@@ -68,5 +67,7 @@ class UserFacadeTest {
 
 
     }
- */
+
 }
+
+ */
